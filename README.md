@@ -94,4 +94,5 @@ endmodule
 <img width="1907" height="1006" alt="Screenshot 2025-11-23 230530" src="https://github.com/user-attachments/assets/e5473908-2e22-45d1-b3b1-79465cba2c34" />
 
 **Result:**
+
 Thus designed a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
